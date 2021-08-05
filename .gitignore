@@ -43,6 +43,7 @@ config.py
 Metadata/
 climate_analysis_original.ipynb
 hawaii_original.sqlite
+hello_world_app.py
 
 
 # PyInstaller
